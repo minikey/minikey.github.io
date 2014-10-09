@@ -1,4 +1,4 @@
-baseurl: /miniblog
+baseurl: https://minikey.github.io/miniblog
 markdown: redcarpet
 safe: false
 pygments: true
