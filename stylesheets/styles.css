@@ -83,7 +83,8 @@ header h1 a {
   transition: all .5s;
 }
 header h1 a:hover {
-  color: #07a;
+  color: #096;
+  text-shadow: rgba(0, 0, 0, 0.2) 1px 1px 2px;
 }
 header.without-description h1 {
   margin: 10px 0;
